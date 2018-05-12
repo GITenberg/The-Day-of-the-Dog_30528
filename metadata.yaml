@@ -1,0 +1,39 @@
+_repo: The-Day-of-the-Dog_30528
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    - Alexander, Ed
+    - Emsh
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Horne, Anderson
+    gutenberg_agent_id: '34657'
+    url: http://www.gutenberg.org/2009/agents/34657
+description: ''
+gutenberg_issued: '2009-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Day of the Dog
+url: http://www.gutenberg.org/ebooks/30528
