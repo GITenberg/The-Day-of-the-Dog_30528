@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '34657'
     url: http://www.gutenberg.org/2009/agents/34657
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30528#The-Day-of-the-Dog
 gutenberg_issued: '2009-11-23'
 gutenberg_type: Text
 identifiers:
